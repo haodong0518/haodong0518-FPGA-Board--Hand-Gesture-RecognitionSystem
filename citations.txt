@@ -1,0 +1,1 @@
+[1]Gogul09, “GitHub - Gogul09/gesture-recognition: :hand: Recognizing ‘Hand Gestures’ using OpenCV and Python.,” GitHub, 2017. https://github.com/Gogul09/gesture-recognition
